@@ -1,5 +1,4 @@
-# TexDreamer
-The official code of TexDreamer: Towards Zero-Shot High-Fidelity 3D Human Texture Generation
+# TexDreamer: Towards Zero-Shot High-Fidelity 3D Human Texture Generation [ECCV 2024] 
 <img src='doc/overview.png'/>
 
 ### [Project Page](https://ggxxii.github.io/texdreamer/) | [Paper (ArXiv)](https://arxiv.org/abs/2403.12906)
