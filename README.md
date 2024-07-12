@@ -1,7 +1,7 @@
 # TexDreamer: Towards Zero-Shot High-Fidelity 3D Human Texture Generation [ECCV 2024] 
 <img src='doc/overview.png'/>
 
-### [Project Page](https://ggxxii.github.io/texdreamer/) | [Paper (ArXiv)](https://arxiv.org/abs/2403.12906)
+### [Project Page](https://ggxxii.github.io/texdreamer/) | [Paper (ArXiv)](https://arxiv.org/abs/2403.12906) | [ATLAS Dataset](https://huggingface.co/datasets/ggxxii/ATLAS)
 
 
 [Yufei Liu](https://ggxxii.github.io/)<sup>1</sup>,
