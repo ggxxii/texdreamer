@@ -1,4 +1,4 @@
-# TexDreamer: Towards Zero-Shot High-Fidelity 3D Human Texture Generation [ECCV 2024] 
+# [ECCV 2024 Oral] TexDreamer: Towards Zero-Shot High-Fidelity 3D Human Texture Generation 
 <img src='doc/overview.png'/>
 
 ### [Project Page](https://ggxxii.github.io/texdreamer/) | [Paper (ArXiv)](https://arxiv.org/abs/2403.12906) | [ATLAS Dataset](https://huggingface.co/datasets/ggxxii/ATLAS)
@@ -110,11 +110,12 @@ python infer_i2uv.py --lora_path texdreamer_u128_t16_origin --save_path output/i
 ## Citation
 If you find our work useful for your research, please consider citing the paper:
 ```
-@misc{liu2024texdreamer,
-      title={TexDreamer: Towards Zero-Shot High-Fidelity 3D Human Texture Generation}, 
-      author={Yufei Liu and Junwei Zhu and Junshu Tang and Shijie Zhang and Jiangning Zhang and Weijian Cao and Chengjie Wang and Yunsheng Wu and Dongjin Huang},
-      year={2024},
-      eprint={2403.12906},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}}
+@inproceedings{texdreamer,
+  title={Texdreamer: Towards zero-shot high-fidelity 3d human texture generation},
+  author={Liu, Yufei and Zhu, Junwei and Tang, Junshu and Zhang, Shijie and Zhang, Jiangning and Cao, Weijian and Wang, Chengjie and Wu, Yunsheng and Huang, Dongjin},
+  booktitle={European Conference on Computer Vision},
+  pages={184--202},
+  year={2024},
+  organization={Springer}
+}
 ```
